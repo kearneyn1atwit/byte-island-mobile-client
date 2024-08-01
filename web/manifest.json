@@ -1,6 +1,6 @@
 {
-    "name": "test_byte_island",
-    "short_name": "test_byte_island",
+    "name": "byte_island_main",
+    "short_name": "byte_island_main",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

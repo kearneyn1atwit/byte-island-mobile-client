@@ -1,4 +1,4 @@
-package com.example.test_byte_island
+package com.example.byte_island_main
 
 import io.flutter.embedding.android.FlutterActivity
 

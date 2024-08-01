@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:test_byte_island/webViewContainer.dart';
+import 'package:byte_island_main/webViewContainer.dart';
 
 void main() {
   runApp(const MyApp());
